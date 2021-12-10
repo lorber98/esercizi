@@ -17,6 +17,6 @@ for i in range(0,5,1):
 	if (i == b and a<10):
 		print("Find b:",i)
 print("---------------------------------")
-print("sin(b)="math.sin(a))
+print("sin(b)=",math.sin(a))
 print("---------------------------------")
 
